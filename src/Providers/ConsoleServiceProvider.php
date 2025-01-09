@@ -26,6 +26,7 @@ class ConsoleServiceProvider extends ServiceProvider
         Commands\MakeFieldtype::class,
         Commands\MakeModifier::class,
         Commands\MakeScope::class,
+        Commands\MakeTemplate::class,
         Commands\MakeFilter::class,
         Commands\MakeTag::class,
         Commands\MakeWidget::class,
